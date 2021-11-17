@@ -59,3 +59,7 @@ ql repo https://github.com/shufflewzc/faker2.git "jd_|jx_|gua_|jddj_|getJDCookie
 
 
 [QL]:./Tasks/qlrepo#readme
+
+
+一键 docker exec -it qinglong bash -c "$(curl -fsSL https://ghproxy.com/https://github.com/shufflewzc/VIP/blob/main/Scripts/sh/1customCDN.sh)"
+
